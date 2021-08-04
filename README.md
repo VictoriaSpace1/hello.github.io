@@ -1,2 +1,2 @@
-# hello.github.io
+# hi.github.io
 My first site
